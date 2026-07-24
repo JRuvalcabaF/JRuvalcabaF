@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Jorge Ruvalcaba 👋
 
-<!--
-**JRuvalcabaF/JRuvalcabaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero en Sistemas** | Infraestructura TI · Administración de Servidores · Desarrollo de Software
 
-Here are some ideas to get you started:
+Ingeniero en Sistemas con especialidad en Seguridad Integral en TI. Combino la **administración de infraestructura** (servidores Linux/Windows, virtualización VMware ESXi, redes, respaldos) con el **desarrollo de software** en múltiples ecosistemas. Me gusta automatizar, estandarizar y construir soluciones que resuelvan problemas reales de negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chihuahua, México
+
+---
+
+### 🛠️ Tecnologías
+
+**Lenguajes y frameworks**
+`C#` · `.NET` · `ASP.NET` · `Java` · `Jakarta EE` · `Dart` · `Flutter`
+
+**Bases de datos**
+`SQL Server` · `MySQL`
+
+**Infraestructura y herramientas**
+`VMware ESXi` · `Linux` · `Windows Server` · `Microsoft 365` · `Maven` · `Git` · `SVN` · `API REST`
+
+---
+
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **Sistema de Asistencia Biométrico** | Checador con huella dactilar y captura de cámara, con backend vía API REST | C# / .NET |
+| **Sistema de Gestión de Almacén (WMS/ERP)** | Plataforma web empresarial para control de inventario y operación de almacén | Java / Jakarta EE |
+| **App Móvil de Almacén** | Cliente móvil multiplataforma que consume la plataforma de almacén | Flutter / Dart |
+
+---
+
+### 📫 Contacto
+
+📧 ruvalcabafjorge@gmail.com
